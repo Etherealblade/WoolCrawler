@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WoolCrawler", "WoolCrawler\WoolCrawler.pyproj", "{F82E551F-4439-4293-8E3B-F79CE671DED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F82E551F-4439-4293-8E3B-F79CE671DED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82E551F-4439-4293-8E3B-F79CE671DED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45748BB0-7AC5-46F3-9E91-7982BD1D5F35}
+	EndGlobalSection
+EndGlobal
