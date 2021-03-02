@@ -17,8 +17,8 @@ import os
 
 def capture():
     # ============ Step 1: Login ============
-    usernameStr = 'linshiyongyongcao@163.com'   # 此处自行修改
-    passwordStr = '2uMzNH7SUP9evbX'
+    usernameStr = '*'   # 此处自行修改
+    passwordStr = '*'
 
     # fill in username and pwd
     browser = webdriver.Firefox()
