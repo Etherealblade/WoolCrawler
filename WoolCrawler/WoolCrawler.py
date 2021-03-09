@@ -17,7 +17,7 @@ import os
 
 def capture():
     # ============ Step 1: Login ============
-    usernameStr = '*'   # 此处自行修改
+    usernameStr = '*'   # 此处填入自己的用户名和密码
     passwordStr = '*'
 
     # fill in username and pwd
