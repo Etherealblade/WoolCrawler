@@ -1,5 +1,5 @@
 '''
-Description: Capturing bandwidth of vps
+Description: Capturing free flux of bandwidth
 
 Ref to: 
 https://www.hongkiat.com/blog/automate-create-login-bot-python-selenium/
